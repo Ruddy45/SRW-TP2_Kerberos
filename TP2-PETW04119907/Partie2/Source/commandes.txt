@@ -1,0 +1,8 @@
+python3 as.py Client1-10.5.0.3-TGS1
+
+python3 tgt.py Client1-10.5.0.3-V1-c,TEMHXmHHwfkOhYXu.,afXaNKsfbRdcXKraZ
+
+python3 serveur.py Client1-10.5.0.3-V1-@I0,JOu8-oiDZWgw8lpo%TdY0w=sgBfZbtr
+
+
+Les champs tickets TGS et V doivent être remplacer par le résultat de la commande précédente (sinon le ticket est expiré).
